@@ -213,11 +213,12 @@ fi
 banner() {
 
 
-printf "     \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
-printf "     \e[101m\e[1;77m:: responsible for any misuse or damage caused by Nightmar4.  ::\e[0m\n"
-printf "     \e[101m\e[1;77m:: Only use for educational purporses!!                      ::\e[0m\n"
+printf "     \e[101m\e[1;77m:: Sorumluluk Reddi Beyanı: Geliştiriciler Hiçbir Sorumluluk Üstlenmez!   ::\e[0m\n"
+printf "     \e[101m\e[1;77m:: Her Hangi Bir Yanlış Kullanımda 'SecreTNigtmar4' Sorumlu Değildir.  ::\e[0m\n"
+printf "     \e[101m\e[1;77m:: Sadece Eğitim Amaçlı Kullanın!!                     ::\e[0m\n"
+printf "     \e[101m\e[1;77m:: VARLIĞIM TÜRK VARLIĞINA ARMAĞAN OLSUN! = İletişim İnstagram : @byyozzi   ::\e[0m\n"
 printf "\n"
-printf "     \e[101m\e[1;77m::     NİGHTMAR4 v1.5! By @SecreTNightmar4 & @byyozzi     ::\e[0m\n"
+printf "     \e[101m\e[1;77m::     NİGHTMAR4 v1.5! By @SecreTNightmar4 & @kodadisecret     ::\e[0m\n"
 printf "\n"
 }
 
