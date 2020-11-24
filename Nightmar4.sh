@@ -218,9 +218,10 @@ printf "     \e[101m\e[1;77m🇹🇷  Sorumluluk Reddi Beyanı: Geliştiriciler 
 printf "     \e[101m\e[1;77m🇹🇷  Her Hangi Bir Yanlış Kullanımda 'SecreTNigtmar4' Sorumlu Değildir.  🇹🇷 \e[0m\n"
 printf "     \e[101m\e[1;77m🇹🇷  Sadece Eğitim Amaçlı Kullanın!! 🇹🇷 \e[0m\n"
 printf "     \e[101m\e[1;77m🇹🇷  VARLIĞIM TÜRK VARLIĞINA ARMAĞAN OLSUN!  🇹🇷 \e[0m\n"
-printf "     \e[101m\e[1;77m🇹🇷  İletişim = İnstagram : @byyozzi  🇹🇷 \e[0m\n" 
+printf "     \e[101m\e[1;77m🇹🇷  NAMI DİĞER ; Oğuz TÜRK 🇹🇷               🇹🇷 \e[0m\n"  
+printf "     \e[101m\e[1;77m🇹🇷  İletişim = İnstagram : @byyozzi  🇹🇷 \e[0m\n"  
 printf "\n"
-printf "     \e[101m\e[1;77m::     NİGHTMAR4 v1.5! By @SecreTNightmar4 & @kodadisecret     ::\e[0m\n"
+printf "     \e[101m\e[1;77m::     NİGHTMAR4 ! By @SecreTNightmar4 & @kodadisecret     ::\e[0m\n"
 printf "\n"
 }
 
