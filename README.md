@@ -60,4 +60,4 @@ VARLIĞIM TÜRK VARLIĞINA ARMAĞAN OLSUN .
 ### Donate!
 Support the authors:
 
-<noscript><a href="https://tr-theboss.blogspot.com/"><Coder="SecreTOzi" İnstagram="https://www.instagram.com/byyozzi/"></a></noscript>
+<noscript><a href="https://tr-theboss.blogspot.com/"><Coder="SecreTOzi" İnstagram="https://www.instagram.com/byyozzi/" </a></noscript>
